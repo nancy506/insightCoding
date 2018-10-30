@@ -1,8 +1,9 @@
-# InsightCodingChallenge, Nancy Zhang, Oct 29,2018
+# Insight Coding Challenge
+# Nancy Zhang, Oct 29,2018
 # Problem
 This project creates metrics to analyze past years data of H1B program, specificially it calculates two metrics: Top 10 Occupations and Top 10 States for certified visa applications.
 
-#I/O
+# I/O
 input:
 h1b_input.csv: statistics from the US Department of Labor and its Office of Foreign Labor Certification Performance Data
 output:
