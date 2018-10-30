@@ -22,9 +22,11 @@ top_10_states.txt: Top 10 states for certified visa applications
 
 # Run instructions
 You can run the project with the following command from within the insightCoding folder:
+
 ./run.sh 
 
 # Run tests
 You can run the test with the following command from within the insight_testsuite folder:
+
 insight_testsuite~$ ./run_tests.sh 
 
