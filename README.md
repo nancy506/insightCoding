@@ -1,10 +1,11 @@
-# InsightCoding, Nancy Zhang, Oct 29,2018
+# InsightCodingChallenge, Nancy Zhang, Oct 29,2018
 # Problem
-Create metrics to analyze past years data of H1B program, specificially calculate two metrics: Top 10 Occupations and Top 10 States for certified visa applications.
+This project creates metrics to analyze past years data of H1B program, specificially it calculates two metrics: Top 10 Occupations and Top 10 States for certified visa applications.
 
-##input:
+#I/O
+input:
 h1b_input.csv: statistics from the US Department of Labor and its Office of Foreign Labor Certification Performance Data
-##output:
+output:
 top_10_occupations.txt: Top 10 occupations for certified visa applications
 top_10_states.txt: Top 10 states for certified visa applications
 
@@ -15,5 +16,10 @@ top_10_states.txt: Top 10 states for certified visa applications
 4.output the top 10 items on the list.
 
 # Run instructions
+You can run the project with the following command from within the insightCoding folder:
 ./run.sh 
+
+# Run tests
+You can run the test with the following command from within the insight_testsuite folder:
+insight_testsuite~$ ./run_tests.sh 
 
