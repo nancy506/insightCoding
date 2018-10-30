@@ -30,7 +30,6 @@ You can run the project with the following command from within the insightCoding
 
 ./run.sh 
 
-# Run tests
 You can run the test with the following command from within the insight_testsuite folder:
 
 insight_testsuite~$ ./run_tests.sh 
