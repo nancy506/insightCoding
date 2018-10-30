@@ -5,10 +5,13 @@ This project creates metrics to analyze past years data of H1B program, specific
 
 # I/O
 input:
+
 h1b_input.csv: statistics from the US Department of Labor and its Office of Foreign Labor Certification Performance Data
 
 output:
+
 top_10_occupations.txt: Top 10 occupations for certified visa applications
+
 top_10_states.txt: Top 10 states for certified visa applications
 
 # Approach
