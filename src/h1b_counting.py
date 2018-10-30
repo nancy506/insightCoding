@@ -1,14 +1,6 @@
 """Nancy Zhang, insight coding challenge
-Each line of the top_10_states.txt file should contain these fields in this order:
-TOP_STATES: State where the work will take place
-
-NUMBER_CERTIFIED_APPLICATIONS: Number of applications that have been certified for work in that state. 
-An application is considered certified if it has a case status of Certified
-
-PERCENTAGE: % of applications that have been certified in that state compared to total number of certified 
-applications regardless of state.
-functions:
-    #get all occupations/states with certified applications and return data as a list
+Classes:
+h1b_counting - class to input data&output top 10 list 
 """
 import os
 import csv
