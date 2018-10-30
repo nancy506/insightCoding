@@ -1,10 +1,10 @@
-# insightCoding, Nancy Zhang, Oct 29,2018
+# InsightCoding, Nancy Zhang, Oct 29,2018
 # Problem
 Create metrics to analyze past years data of H1B program, specificially calculate two metrics: Top 10 Occupations and Top 10 States for certified visa applications.
 
-input:
+##input:
 h1b_input.csv: statistics from the US Department of Labor and its Office of Foreign Labor Certification Performance Data
-output:
+##output:
 top_10_occupations.txt: Top 10 occupations for certified visa applications
 top_10_states.txt: Top 10 states for certified visa applications
 
